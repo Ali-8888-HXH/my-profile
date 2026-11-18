@@ -1,3 +1,4 @@
 Name: Ali Mohammed Sabhani
 Major: Cybersecurity
 University: Umm Al-Qura University
+Project: NASA Climate Detective (2026 NASA Space Apps Challenge)
